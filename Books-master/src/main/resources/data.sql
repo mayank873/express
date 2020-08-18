@@ -1,0 +1,1 @@
+insert into book (id,title,author) values(0,'test_title','test_author');
